@@ -1,5 +1,5 @@
-#DEVOLOPAR BY__SIFAT #
-#GIFT BY RANDOM SIFAT TOLLS 
+#DEVOLOPAR BY__MEHEDI #
+#GIFT BY RANDOM MEHEDI TOLLS 
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 #!/usr/bin/python3
@@ -70,8 +70,8 @@ os.system('clear')
 os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
-os.system('espeak -a 300 "well,come to,sifat, tools"')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100088772568972.Ok.Bro')
+os.system('espeak -a 300 "well,come to,mehedi, tools"')
+os.system('xdg-open https://www.facebook.com/mehedi.hasan.miraj69')
 def logo():
 	os.system('clear');print(f"""\r\r\x1b[1;97m{W}
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
@@ -86,10 +86,10 @@ def logo():
 ║\33[0;41m      [ WORKING WIFI AND MOBILE DATA ]       \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[Author                   • \33[1;38mSIFAT ]\33[1;38m        ║\033[1;31m 
-╠══[Facebook                 • MD. SIFAT ]    ║  \033[1;97m  
+╠══[Author                   • \33[1;38mMEHEDI ]\33[1;38m        ║\033[1;31m 
+╠══[Facebook                 • MD. MEHEDI ]    ║  \033[1;97m  
 ╠══[Github                   • \33[1;38msifat-404]     ║\33[1;34m   
-╠══[Whatsapp                 • 01848580864 ]  ║\33[1;35m 
+╠══[Whatsapp                 • 01877282299 ]  ║\33[1;35m 
 ╠══[TOOLS                    • Free  ]        ║ \33[1;32m   
 ╠══[VERSION                  • 1.07 ]         ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m""")
